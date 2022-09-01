@@ -23,13 +23,13 @@ let handler = async (m, { conn, args }) => {
   let url = `https://api.lolhuman.xyz/api/tiktokwm?apikey=ca746575fef751073e6c359e&url=${args[0]}`
   let txt = `🚀 *Link:* ${await (await axios.get(`https://tinyurl.com/api-create.php?url=${args[0]}`)).data}`
   await conn.sendFile(m.chat, url, 'tiktokaudio.mp3', `
-┏┉━━━━━━━━━━━❏
-┆ *TIKTOK MP3*
-├┈┈┈┈┈┈┈┈┈┈┈
-┆• *Judul:* 
-│• *Type:* MP3
-┆• *📥 Ukuran File:* 
-└❏
+
+ *TIKTOK MP3*
+
+• *Judul:* 
+• *Type:* MP3
+• *📥 Ukuran File:* 
+
 `.trim(), m, null, {
     document: { url }, mimetype: 'audio/mpeg', fileName: 'tiktok.mp3', conntextInfo: {
       externalAdReply: {
