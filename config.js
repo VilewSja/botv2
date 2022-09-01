@@ -95,7 +95,8 @@ global.APIs = { // API Prefix
   botstyle: 'https://botstyle-api.herokuapp.com',
   adiisus: 'https://adiixyzapi.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  kanx: 'https://kannxapi.herokuapp.com/'
+  kanx: 'https://kannxapi.herokuapp.com/',
+  alfa: 'https://api.zeeoneofc.xyz'
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
