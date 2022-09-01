@@ -6,7 +6,7 @@ let handler = async (m, { conn, args }) => {
   if (!args[0]) throw 'Uhm...url nya mana?'
   let chat = global.db.data.chats[m.chat]
   m.reply(wait)
-  await conn.reply(m.chat, `Downloading media from Tiktok`, 0, {
+  await conn.reply(m.chat, `Loading...`, 0, {
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
