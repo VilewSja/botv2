@@ -10,7 +10,7 @@ contextInfo: { externalAdReply :{
                         description: 'anu',
                         title: bottime,
                         body: 'Total Cintaku Padamu',          previewType: 0,
-                        thumbnail: fs.readFileSync("./thumbnail.jpg"),
+                        thumbnail: fs.readFileSync("./kongede.jpg"),
                         sourceUrl: sig
                       }}
 })
