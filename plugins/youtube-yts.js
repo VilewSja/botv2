@@ -12,12 +12,12 @@ let handler = async (m, { text }) => {
 👁️ ${v.view} views
       `.trim()
       case 'channel': return `
-╭──────━• *CHANNEL*
-│🎀 *${v.channelName}* 
-│🔗 _${v.url}_
-│📛 _${v.subscriberH} Subscriber_
-│🎥 ${v.videoCount} video
-┗──────━•
+      *CHANNEL*
+🎀 *${v.channelName}* 
+🔗 _${v.url}_
+📛 _${v.subscriberH} Subscriber_
+🎥 ${v.videoCount} video
+
 `.trim()
     }
   }).filter(v => v).join('\n\n─────────────━─────────────\n\n')
@@ -27,6 +27,6 @@ handler.help = ['', 'earch'].map(v => 'yts' + v + ' <pencarian>')
 handler.tags = ['tools']
 handler.command = /^yts(earch)?$/i
 
-handler.register = true
+handler.register = false
 
 export default handler
