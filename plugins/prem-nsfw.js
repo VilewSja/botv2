@@ -27,15 +27,15 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 
 //> Default
 let res = 'https://api.lolhuman.xyz/api/random/nsfw/'
-let api = '?apikey=YOURAPIKEY'
+let api = '?apikey=ca746575fef751073e6c359e'
 
 //> Lolhuman
 let resl = 'https://api.lolhuman.xyz/api/random2/'
-let apil = '?apikey=YOURAPIKEY'
+let apil = '?apikey=ca746575fef751073e6c359e'
 
 //> Xteam
 let xres = 'https://api.lolhuman.xyz/api/random2'
-let xapi = '?apikey=YOURAPIKEY'
+let xapi = '?apikey=ca746575fef751073e6c359e'
 //--------------------------------
 
 // ••••••••••••••••• OPTIONS •••••••••••
@@ -97,13 +97,13 @@ let yuri = (ch == true ? false : true)
 //---------- TEXT -----------
 let next = 'ɴ ᴇ x ᴛ'
 let fot = botdate
-let txtprem = '❗ ɴsғᴡ ɪɴɪ ᴋʜᴜsᴜs ᴜsᴇʀ ᴘʀᴇᴍɪᴜᴍ\nʜᴀʀᴀᴘ ʜᴜʙᴜɴɢɪ ᴏᴡɴᴇʀ ᴜɴᴛᴜᴋ ᴍᴇᴍʙᴇʟɪ ᴘʀᴇᴍɪᴜᴍ ! 📞'
+let txtprem = 'Fitur Ini Khusus Premium!'
 let p = '🅟 | '
 let f = 'Ⓕ | '
 
 let tekk = `\`\`\`➩ Random Image Nsfw ${args[0] ? args[0].capitalize() : false}\`\`\` `
   let teks = `┊ 📮 Silahkan Pilih Dibawah!
-┊› Atau ketik ${usedPrefix}nsfw neko
+┊› Atau ketik ${usedPrefix}nsfw Nama Genrenya
 ❏──···––`
 //---------------------------
 
