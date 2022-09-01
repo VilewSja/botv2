@@ -7,6 +7,7 @@ let handler = async (m, { conn }) => {
 handler.command = /^(simpown)$/i
 handler.tags = ['anime']
 handler.help = ['simpown']
+handler.premium = true
 export default handler
 
 global.gamanaufal = [
