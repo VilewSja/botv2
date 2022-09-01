@@ -14,7 +14,7 @@ handler.admin = false
 handler.botAdmin = false
 
 handler.fail = null
-handler.register = true
+handler.register = false
 
 export default handler
 
