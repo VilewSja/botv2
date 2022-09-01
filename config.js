@@ -125,16 +125,16 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://a.uguu.se/rYShLcVY.jpg' //Main Thumbnail
-global.thumb2 = 'https://a.uguu.se/rYShLcVY.jpg'
+global.thumb = 'https://telegra.ph/file/b446ebf0a4b6dc794cada.jpg' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/b446ebf0a4b6dc794cada.jpg'
 global.thumbbc = 'https://telegra.ph/file/3b383167b8cc013b5e6fb.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== TEXT ==============*/
-global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
-global.eror = '```404 error```'
+global.wait = 'Loading...'
+global.eror = '404 error'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -143,7 +143,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/3b383167b8cc013b5e6fb.jpg'
+global.thumbdoc = 'https://telegra.ph/file/b446ebf0a4b6dc794cada.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
