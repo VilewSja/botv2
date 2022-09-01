@@ -95,8 +95,8 @@ global.APIs = { // API Prefix
   botstyle: 'https://botstyle-api.herokuapp.com',
   adiisus: 'https://adiixyzapi.herokuapp.com',
   LeysCoder: 'https://leyscoders-api.herokuapp.com',
-  kanx: 'https://kannxapi.herokuapp.com/',
-  alfa: 'https://api.zeeoneofc.xyz'
+  kanx: 'https://kannxapi.herokuapp.com/'
+
 }
 global.APIKeys = { // APIKey Here
   // 'https://website': 'apikey'
@@ -112,9 +112,9 @@ global.APIKeys = { // APIKey Here
   'https://botstyle-api.herokuapp.com': 'HoyKYLhy',
   'https://hardianto.xyz': 'hardianto',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
-  'https://api.zeeoneofc.xyz': 'liuuuOYJ'
+
 }
-// Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
+// Kata APIKEY itu isi dengan apikey lu sendiri, dengan b eli ke website itu
 
 /*============== WATERMARK ==============*/
 global.wm = 'VilewBotz' //Main Watermark
