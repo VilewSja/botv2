@@ -26,15 +26,15 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //---------------------SOURCE
 
 //> Default
-let res = 'https://api.zeeoneofc.xyz/docs'
+let res = 'https://api.zeeoneofc.xyz'
 let api = 'liuuuOYJ'
 
 //> Lolhuman
-let resl = 'https://api.zeeoneofc.xyz/docs'
+let resl = 'https://api.zeeoneofc.xyz'
 let apil = 'liuuuOYJ'
 
 //> Xteam
-let xres = 'https://api.zeeoneofc.xyz/docs'
+let xres = 'https://api.zeeoneofc.xyz'
 let xapi = 'liuuuOYJ'
 //--------------------------------
 
