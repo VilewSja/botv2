@@ -159,7 +159,7 @@ global.dmenub2 = '┊' //body for info cmd on Default menu
 global.dmenuf = '┗––––––––––✦' //footer
 
 // COMMAND MENU
-global.dashmenu = '*${namebot}*'
+global.dashmenu = '*Dashboard*'
 global.cmenut = '❏––––––『'                       //top
 global.cmenuh = '』––––––'                        //header
 global.cmenub = '┊✦ '                            //body
