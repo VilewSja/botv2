@@ -117,12 +117,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan b eli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = 'VilewBotz' //Main Watermark
-global.wm2 = 'VilewBotz'
-global.wm3 = 'VilewBotz'
-global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
-global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = 'Hancock-Md'
+global.wm = 'Akagami-Md' //Main Watermark
+global.wm2 = 'Akagami-Md'
+global.wm3 = 'Akagami-Md'
+global.botdate = `Date : ${week} ${date}`
+global.bottime = `Time : ${wktuwib}`
+global.titlebot = 'Akagami-Md'
 global.author = global.wm
 
 
@@ -175,8 +175,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'VilewBotz'
-global.stickauth = `@levirillnofek`
+global.stickpack = 'Akagami-Md'
+global.stickauth = `ByLevi`
 
 global.multiplier = 38 // The higher, The harder levelup
 
