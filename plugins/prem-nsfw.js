@@ -30,12 +30,12 @@ let res = 'https://api.zeeoneofc.xyz'
 let api = 'liuuuOYJ'
 
 //> Lolhuman
-let resl = 'https://api.zeeoneofc.xyz'
-let apil = 'liuuuOYJ'
+let res = 'https://api.zeeoneofc.xyz'
+let api = 'liuuuOYJ'
 
 //> Xteam
-let xres = 'https://api.zeeoneofc.xyz'
-let xapi = 'liuuuOYJ'
+let res = 'https://api.zeeoneofc.xyz'
+let api = 'liuuuOYJ'
 //--------------------------------
 
 // ••••••••••••••••• OPTIONS •••••••••••
