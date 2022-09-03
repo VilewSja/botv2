@@ -61,7 +61,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281545930412'
 global.nomorown = '6281255090574'
-global.namebot = 'VilewwBotzz'
+global.namebot = 'Akagami-Md'
 global.nameown = 'Levi'
 
 
@@ -122,7 +122,7 @@ global.wm2 = 'Akagami-Md'
 global.wm3 = 'Akagami-Md'
 global.botdate = `Date : ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = 'Akagami-Md'
+global.titlebot = 'Bot Multi Device'
 global.author = global.wm
 
 
