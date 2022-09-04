@@ -17,7 +17,7 @@ let handler = async (m) => {
 	await conn.sendFile(m.chat, resp.output_url, 'hd.jpg', 'Hasilnya..', m).then(() => fs.unlinkSync(`./${img}`))
 }
 handler.help = ['hd <caption|reply media>']
-handler.tags = ['tools|anime']
+handler.tags = ['tools']
 handler.command = /^(hd|enhance)$/i
 
 export default handler
