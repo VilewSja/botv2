@@ -31,7 +31,7 @@ conn.sendFile(m.chat, buff, ran, null, m, true, {
 type: 'audioMessage', 
 ptt: true 
 })})
-} else throw `*ʀᴇꜱᴘᴏɴᴅ ᴛᴏ ᴛʜᴇ ᴀᴜᴅɪᴏ ᴏʀ ᴠᴏɪᴄᴇ ɴᴏᴛᴇ ᴡʜɪᴄʜ ᴡɪʟʟ ʙᴇ ᴍᴏᴅɪꜰɪᴇᴅ, ᴜꜱᴇ ᴛʜᴇ ᴄᴏᴍᴍᴀɴᴅ ${usedPrefix + command}*`
+} else throw `*Reply Vn/Audio Yang Ingin Di Modifikasi, Menggunakan Command ${usedPrefix + command}*`
 } catch (e) {
 throw e
 }}
