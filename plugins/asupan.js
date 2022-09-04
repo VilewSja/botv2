@@ -23,6 +23,7 @@ function pickRandom(list) {
 }
 
 const asupan = [
+"https://telegra.ph/file/137370cde463895b18f9f.mp4",
 "https://b.top4top.io/m_1931yxodg0.mp4",
 "https://k.top4top.io/m_193161p380.mp4",
 "https://l.top4top.io/m_1931i4g3p1.mp4",
