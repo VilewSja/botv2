@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 
 let handler = async (m, { conn }) => {
 	let url = gamanaufal[Math.floor(Math.random() * gamanaufal.length)]
-	conn.sendButton(m.chat, ' *Cuma Simpenan Owner Kok* ', wm, url, [['(≧ω≦)', '.simpown']], m)
+	conn.sendButton(m.chat, ' *Cuma Simpenan Owner Kok* ', wm, url, [['Simpown', '.simpown']], m)
 }
 handler.command = /^(simpown)$/i
 handler.tags = ['anime']
