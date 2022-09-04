@@ -296,7 +296,8 @@ const listMessage = {
   title: `${htki} *LIST MENU* ${htka}`,
   buttonText: `CLICK HERE ⎙`,
   sections
-}
+	
+}conn.sendFile(m.chat, audio.data, 'audio.mp3', 'https://file.io/9oQveEBF9ku6', m, true, { mimetype: 'audio/mp4' })
   if (teks == '404') {
   	return conn.sendMessage(m.chat, listMessage, { quoted: m, mentions: await conn.parseMention(tek), contextInfo:{ forwardingScore: 99999, isForwarded: true }})
     }
