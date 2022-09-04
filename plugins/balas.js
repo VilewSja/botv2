@@ -33,7 +33,8 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
     let logs = `Berhasil mengirim pesan ke nomor ${korban}\nMogahan Dibales🐦`
     conn.reply(m.chat, logs, m)
 }}
-handler.command = /^(pesan|balas)$/i
+handler.command = /^(menfess)$/i
+handler.tags = ['anonymous']
 handler.owner = false
 handler.premium = false
 handler.group = false
