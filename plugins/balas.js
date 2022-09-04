@@ -35,6 +35,7 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 }}
 handler.command = /^(menfess)$/i
 handler.tags = ['anonymous']
+handler.help = ['menfess']
 handler.owner = false
 handler.premium = false
 handler.group = false
