@@ -30,7 +30,7 @@ let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.documen
 
 {
 
-    let logs = `Berhasil mengirim pesan ke nomor ${korban}\nMogahan Dibales🐦`
+    let logs = `Berhasil mengirim pesan ke nomor ${korban}`
     conn.reply(m.chat, logs, m)
 }}
 handler.command = /^(menfess)$/i
