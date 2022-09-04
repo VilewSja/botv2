@@ -66,8 +66,8 @@ conn.reply(m.chat, `• *ᴛʏᴘᴇ:* XTEAM
     m.reply("Error\n\n\n" + err.stack)
   }
 }
-handler.help = ['cekapikey']
-handler.tags = ['internet', 'tools']
-handler.command = /^(cek(key|api))$/i
+handler.help = ['']
+handler.tags = ['', '']
+handler.command = /^(cek(key|apuui))$/i
 
 export default handler
