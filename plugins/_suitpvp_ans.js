@@ -172,7 +172,7 @@ _*Hasil Suit*_${tie ? '\nSERI' : ''}
 
 handler.exp = 0
 
-module.exports = handler
+export default handler
 
 function random(arr) {
 
