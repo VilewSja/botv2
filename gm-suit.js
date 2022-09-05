@@ -72,4 +72,4 @@ handler.group = true
 
 
 
-module.exports = handler
+export default handler
