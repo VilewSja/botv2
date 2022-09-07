@@ -40,7 +40,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]}
 
   conn.suit[id] = {
 
-    chat: await conn.send2Button(m.chat, caption, footer, 'Terima', 'ok', 'Tolak', 'tolak', m, { contextInfo: { mentionedJid: conn.parseMention(caption) } }),
+    chat: await conn.sendButton(m.chat, caption, footer, 'Terima', 'ok', 'Tolak', 'tolak', m, { contextInfo: { mentionedJid: conn.parseMention(caption) } }),
 
     id: id,
 
