@@ -52,9 +52,9 @@ klik wa.me/${conn.user.jid.split`@`[0]}`, m.chat, {
 
       })
 
-      if (!room.pilih) this.send3Button(room.p, 'Silahkan pilih', `Menang +${room.poin}XP\nKalah -${room.poin_lose}XP\nBonus +${room.poin_bot}`, 'Batu🗿', 'Batu', 'Kertas📄', 'Kertas', 'Gunting✂️', 'Gunting', m)
+      if (!room.pilih) this.sendButton(room.p, 'Silahkan pilih', `Menang +${room.poin}XP\nKalah -${room.poin_lose}XP\nBonus +${room.poin_bot}`, 'Batu🗿', 'Batu', 'Kertas📄', 'Kertas', 'Gunting✂️', 'Gunting', m)
 
-      if (!room.pilih2) this.send3Button(room.p2, 'Silahkan pilih', `Menang +${room.poin}XP\nKalah -${room.poin_lose}XP\nBonus +${room.poin_bot}`, 'Batu🗿', 'Batu', 'Kertas📄', 'Kertas', 'Gunting✂️', 'Gunting', m)
+      if (!room.pilih2) this.sendButton(room.p2, 'Silahkan pilih', `Menang +${room.poin}XP\nKalah -${room.poin_lose}XP\nBonus +${room.poin_bot}`, 'Batu🗿', 'Batu', 'Kertas📄', 'Kertas', 'Gunting✂️', 'Gunting', m)
 
       room.waktu_milih = setTimeout(() => {
 
