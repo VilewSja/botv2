@@ -61,7 +61,7 @@ global.psaweria = '-'
 /*============== NOMOR ==============*/
 global.nomorbot = '6281545930412'
 global.nomorown = '6281255090574'
-global.namebot = 'Akagami-Md'
+global.namebot = 'VilewwBotz'
 global.nameown = 'Levi'
 
 
@@ -117,9 +117,9 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan b eli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = 'Akagami-Md' //Main Watermark
-global.wm2 = 'Akagami-Md'
-global.wm3 = 'Akagami-Md'
+global.wm = 'Vilewwbotz' //Main Watermark
+global.wm2 = 'Vilewwbotz'
+global.wm3 = 'VilewwBotz'
 global.botdate = `Date : ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
 global.titlebot = 'Bot Multi Device'
@@ -127,9 +127,9 @@ global.author = global.wm
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/ca8921942ed708547c62e.jpg' //Main Thumbnail
-global.thumb2 = 'https://telegra.ph/file/ca8921942ed708547c62e.jpg'
-global.thumbbc = 'https://telegra.ph/file/ca8921942ed708547c62e.jpg' //For broadcast
+global.thumb = 'https://telegra.ph/file/ec34cab2a226d3b39c05b' //Main Thumbnail
+global.thumb2 = 'https://telegra.ph/file/ec34cab2a226d3b39c05b'
+global.thumbbc = 'https://telegra.ph/file/ec34cab2a226d3b39c05b' //For broadcast
 global.giflogo = 'https://telegra.ph/file/31289638f136e0662912d.mp4'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
@@ -145,7 +145,8 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/ca8921942ed708547c62e.jpg'
+global.thumbdoc = 'https://telegra.ph/file/ec34cab2a226d3b39c05b'
+
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -175,7 +176,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'Akagami-Md'
+global.stickpack = 'Vilew'
 global.stickauth = `ByLevi`
 
 global.multiplier = 38 // The higher, The harder levelup
